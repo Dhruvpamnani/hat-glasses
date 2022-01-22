@@ -5,7 +5,7 @@ I don't know it is working or not so you can check tell me also because i don't 
  
  BTW for people that don't know there is a native for loosing hat/glasses when punched.🙂 
  
-``
+```
 
 Citizen.CreateThread(function ()
     SetPedCanLosePropsOnDamage(PlayerPedId(), false, 0)
@@ -24,7 +24,7 @@ Citizen.CreateThread(function ()
     end
 end
 )
-``
+```
 
 ![image](https://user-images.githubusercontent.com/90241955/148762542-468f6d79-6402-4ff9-9ac3-cc56c6571dd4.png)
 like this
